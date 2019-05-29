@@ -23,6 +23,24 @@
     - learning how to push a project to github
     - walk through youtube video "Build a Meteor.Js app in 45 min" https://www.youtube.com/watch?v=9494-2E4riQ&t=2161s
     
-25/05/2019
-    9am - 11am:
-    - ideation
+27/05/2019
+    11am - 12pm:
+    - Skype with Yuxuan to discuss Milestone 1
+    
+   3pm - 6pm:
+   - Writing Script, practice and make the audio file for milestone 1 videos
+   
+28/05/2019
+    10am - 12am
+    - settling technical difficulties for Meteor, including: program stuck at "starting your app", localhost showing blank page etc, cannot initialize a database.
+   - Give up on Meteor.Js due to too much too much time spent on debugging for technical difficulties
+   - Changing to Node.Js
+   
+   2.30pm - 5.30pm
+   - Following youtube video: "How to Build User Login System Using Nodejs | Nodejs & its Installation" https://www.youtube.com/watch?v=hb26tQPmPl4&t=1521s  until 38mins
+  - Much time spent on debugging for technical issue. i.e. problem due to grammarly extension https://stackoverflow.com/questions/45366744/refused-to-load-the-font-datafont-woff-it-violates-the-following-content
+  - Still cannot load the webpage to localhost. More googling needed
+  
+ 29/05/2019
+ - 9.30am ---
+ - Doing milestone 1
