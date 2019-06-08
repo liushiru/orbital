@@ -44,3 +44,19 @@
  29/05/2019
  - 9.30am ---
  - Doing milestone 1
+ 
+ 05/06/2019
+ - 9.00 am -- 12.00 am 2 - 4pm 
+ - Login register page + debugging
+ 
+ 06/06/2019
+ - 2 - 5 pm 
+ - Setting up Database
+ 
+ 07/06/2019
+ - 3 - 5pm 9- 10pm
+ - Debugging and uploading user info to cloud database
+ 
+ 08/06/2019
+ - 11am - 12pm
+  - Evaluation
