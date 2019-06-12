@@ -59,4 +59,22 @@
  
  08/06/2019
  - 11am - 12pm
-  - Evaluation
+  - Evaluation: finders/keepers, jellyChips
+  
+ 09/06/2019
+ - 11am - 1pm 
+ - evaluation: coffee brew
+ 
+ 11/06/2019
+ - 1pm -4.30pm
+ - creating profile page: 
+ - added in new params to userSchema: email, matricNo etc.
+
+12/06/2019
+- 9.30am - 11.30am
+- Adding Profile page template to new routes: /users/profile_page
+- solving css file technical difficulties (did not work)
+- added in /users/profile_page new routes
+
+- 1.30pm - 2.30pm
+- change /users/profile_page to dynamic routing through /users/:name
