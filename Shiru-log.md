@@ -78,3 +78,18 @@
 
 - 1.30pm - 2.30pm
 - change /users/profile_page to dynamic routing through /users/:name
+
+-5pm -6.30pm
+ -refinement
+ 
+13/06/2019
+
+- 9.30am - 1pm
+ - [unsolved] trying to apply dynamic url to edit page using method taught at " " Failed. Changed to static url for editing profile page.
+
+- 9.30pm - 11.30pm
+ - [solved] trouble shooting for ETIMEOUT connection error to cloudDB. Reasons: networking problem. Tried to install local MongoDB for better development experience and prevent netwok influences, however failed. (thank yzw for helping me with trouble shooting).
+ 
+14/06/2019
+- 10am - 11am
+- fixed technical problem and finished cmmunication with database. Edit profile feature half down. Refinement of UI needed.
