@@ -92,4 +92,21 @@
  
 14/06/2019
 - 10am - 11am
-- fixed technical problem and finished cmmunication with database. Edit profile feature half down. Refinement of UI needed.
+- fixed technical problem and finished cmmunication with database. Edit profile feature half done. Refinement of UI needed.
+
+- 1pm - 5pm
+ - finished backend for Edit Profile
+ - started working on forum post feature: design Post models, 
+ 
+17/06/2019
+- 3pm - 5pm
+ - created /forum route
+ - created posts collection
+ - created html page for uploading posts,
+ - upload posts to database
+ 
+19/06/2019
+- 11am - 5pm
+ - update User and Post Schema, created an array field in User Schema
+ - Now everytime, a user created a post, the post will be stored in related to record, which is the "post“ array field 
+ - finished mainForum page, i.e. fetch all posts from the collection
