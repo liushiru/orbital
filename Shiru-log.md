@@ -110,3 +110,8 @@
  - update User and Post Schema, created an array field in User Schema
  - Now everytime, a user created a post, the post will be stored in related to record, which is the "post“ array field 
  - finished mainForum page, i.e. fetch all posts from the collection
+ 
+ 
+7/2/2019
+ - 9pm - 10.30pm
+   peer evaluation
