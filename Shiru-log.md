@@ -112,6 +112,10 @@
  - finished mainForum page, i.e. fetch all posts from the collection
  
  
-7/2/2019
+2/7/2019
  - 9pm - 10.30pm
    peer evaluation
+   
+3/7/2019
+ - 5.30pm - 8pm
+   - load comment to single forum page
