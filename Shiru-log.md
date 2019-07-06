@@ -119,3 +119,12 @@
 3/7/2019
  - 5.30pm - 8pm
    - load comment to single forum page
+   
+4/7/2019
+ - 8.30pm - 11pm
+  - fixing timestamp
+  - fix profile page bugs
+  
+6/7/2019
+ -2pm - 5pm
+ - Start to work on delete post
